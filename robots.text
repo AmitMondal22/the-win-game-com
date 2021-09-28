@@ -1,0 +1,80 @@
+User-agent: Googlebot
+Disallow: /ajax/
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /admin-login
+Disallow: /game_image/*
+Disallow: /game_image/
+Disallow: /off_img
+Disallow: /off_img/*
+Disallow: /off_img2
+Disallow: /off_img2/*
+Disallow: /off_img3
+Disallow: /off_img3/*
+Disallow: /use
+Disallow: /use/*
+Disallow: /user_guide
+Disallow: /user_guide/*
+
+
+
+
+User-agent: Googlebot-Image
+Disallow: /ajax/
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /admin-login
+Disallow: /game_image/*
+Disallow: /game_image/
+Disallow: /off_img
+Disallow: /off_img/*
+Disallow: /off_img2
+Disallow: /off_img2/*
+Disallow: /off_img3
+Disallow: /off_img3/*
+Disallow: /use
+Disallow: /use/*
+Disallow: /user_guide
+Disallow: /user_guide/*
+
+
+
+
+User-agent: Googlebot-Video
+Disallow: /ajax/
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /admin-login
+Disallow: /game_image/*
+Disallow: /game_image/
+Disallow: /off_img
+Disallow: /off_img/*
+Disallow: /off_img2
+Disallow: /off_img2/*
+Disallow: /off_img3
+Disallow: /off_img3/*
+Disallow: /use
+Disallow: /use/*
+Disallow: /user_guide
+Disallow: /user_guide/*
+
+
+
+User-agent: Googlebot-pdf
+Disallow: /ajax/
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /admin-login
+Disallow: /game_image/*
+Disallow: /game_image/
+Disallow: /off_img
+Disallow: /off_img/*
+Disallow: /off_img2
+Disallow: /off_img2/*
+Disallow: /off_img3
+Disallow: /off_img3/*
+Disallow: /use
+Disallow: /use/*
+Disallow: /user_guide
+Disallow: /user_guide/*
+
